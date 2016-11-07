@@ -1,0 +1,33 @@
+div {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+ .caja1{
+	 background:#ee3e64;
+ 	position: static;
+ 	left: 0px;
+ 	top: 0px;
+ }
+ .caja2{
+ 	background:#44accf;
+ 	right: 0px;
+ 	top: 0px;
+
+ }
+ .caja3 {
+ 	background:#b7d84b;
+ 	left: 0px;
+ 	bottom: 0px;
+ } 
+ .caja4 {
+ 	background: yellow;
+ 	right: 0px;
+ 	bottom: 0px;
+ }
